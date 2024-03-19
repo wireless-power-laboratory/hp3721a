@@ -4,11 +4,13 @@ Repository for research and development with the Hewlett-Packard 3721A Correlato
 
 ![image](/images/3721a-front.jpg)
 
-The Model 3722A Noise Generator uses digital techniques to synthesize binary and Gaussian noise patterns. These _pseudorandom_ patterns, which are of known content and duration, are repeated over and over without interruption. Since one pattern is identical with th4 net, each pattern has the same effect on the system under test: For this reason, pseudorandom noise signals cause no statistical variance in test results. The Model 3722A also generates truly random binary and Gaussian noise.
+The Model 3721A Correlator is an all-digital, dc-to-250 kHz signal analyzer which combines four major measurement capabilities in one instrument. It measures autocorrelation, cross-correlation, probability distributions, and signal averaging (signal recovery), the process of recovering the waveshape of repetitive signals buried in noise -- described with reference to the Model [5480A](https://github.com/cartheur/hp5480a) Signal Analyzer. All results are displayed on a built-in CRT.
+
+
 
 ### table of contents
 
-* What is the art of precision [noise](/art-of-correlation/README.md)?
+* What is the art of precision [correlation](/statistical-signal-analysis/README.md)?
 
 ### Instrument details
 
