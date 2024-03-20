@@ -1,4 +1,4 @@
-## The hp3721a correlator
+## The Hewlett-Packard 3721a Correlator
 
 Repository for research and development with the Hewlett-Packard 3721A Correlator.
 
