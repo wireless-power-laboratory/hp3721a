@@ -14,4 +14,4 @@ Something.
 
 ### Instrument details
 
-Words.
+Words. Details.
