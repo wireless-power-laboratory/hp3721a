@@ -14,7 +14,7 @@ Something.
 
 ### Instrument details
 
-All relevant details can be understood from the [manual](https://github.com/wireless-power-laboratory/hp3721a/blob/main/manual/9018-02837.pdf) and the hp [journal](https://github.com/wireless-power-laboratory/hp3721a/blob/main/hp-journal/1969-11.pdf)
+All relevant details can be understood from the [manual](https://github.com/wireless-power-laboratory/hp3721a/blob/main/manual/9018-02837.pdf) and the hp [journal](https://github.com/wireless-power-laboratory/hp3721a/blob/main/hp-journal/1969-11.pdf).
 
 ### Coming Soon
 
