@@ -14,4 +14,4 @@ Something.
 
 ### Instrument details
 
-Words. Details.
+All relevant details can be understood from the documentation. Experimentation to be included here soon.
